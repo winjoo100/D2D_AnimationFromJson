@@ -1,0 +1,20 @@
+# Visual Studio 관련 불필요 파일
+.vs/
+*.ipch
+*.pch
+*.obj
+*.exe
+*.log
+*.user
+*.suo
+*.cache
+*.db
+*.VC.db
+
+# 빌드 결과물
+bin/
+obj/
+
+# 기타
+*.tmp
+*.log
